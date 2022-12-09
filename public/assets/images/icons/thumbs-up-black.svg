@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 21222" transform="translate(-696 -193)">
+        <path data-name="Rectangle 22873" transform="translate(696 193)" style="fill:none" d="M0 0h24v24H0z"/>
+        <path d="M19.2 10.091h-3.6v-3.8A1.254 1.254 0 0 0 14.384 5a1.192 1.192 0 0 0-.949.484L9 11.364h0v6.364L10.8 19h7.484a1.211 1.211 0 0 0 1.153-.923l1.494-5.552a1.89 1.89 0 0 0-1.731-2.434z" transform="translate(696 193)" style="stroke:#002b47;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+        <rect width="5" height="9" rx="1" transform="translate(700 203)" style="stroke:#002b47;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px;fill:none"/>
+        <circle cx=".75" cy=".75" r=".75" transform="translate(700.75 209)" style="fill:#fdfdfd"/>
+    </g>
+</svg>

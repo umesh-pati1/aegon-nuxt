@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path data-name="Rectangle 27181" style="fill:none" d="M0 0h48v48H0z"/>
+    <g data-name="Group 29421" transform="translate(4.5 4.5)">
+        <path data-name="Rectangle 27182" style="opacity:.2;fill:none" d="M0 0h35.931v35.931H0z"/>
+        <circle data-name="Ellipse 5630" cx="13.772" cy="13.772" r="13.772" transform="translate(12.461 12.933)" style="fill:#fcec95"/>
+        <path data-name="Rectangle 23120" d="M5.493-.75h21.271a6.318 6.318 0 0 1 6.243 6.378V27.36a6.318 6.318 0 0 1-6.243 6.378H5.493A6.318 6.318 0 0 1-.75 27.36V5.628A6.318 6.318 0 0 1 5.493-.75zm21.271 33.07a4.914 4.914 0 0 0 4.855-4.961V5.628A4.914 4.914 0 0 0 26.764.667H5.493A4.914 4.914 0 0 0 .637 5.628V27.36a4.914 4.914 0 0 0 4.856 4.96z" transform="translate(3.649 4.102)" style="fill:#094771"/>
+        <path data-name="Path 12403" d="M109.359 118.454h5.574v-12.748h3.9l.41-4.27h-4.308V99c0-1 .239-1.4 1.3-1.4h3.009v-4.425h-3.863c-4.173 0-6.019 1.652-6.019 4.863v3.4h-2.907v4.332h2.907z" transform="translate(-92.18 -82.175)" style="fill:#1375e9;fill-rule:evenodd"/>
+    </g>
+</svg>

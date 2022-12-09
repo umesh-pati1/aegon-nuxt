@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+    <defs>
+        <linearGradient id="4kl22oyr9b" x1=".061" y1="1.125" x2=".969" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#006bd7"/>
+            <stop offset="1" stop-color="#0582ff"/>
+        </linearGradient>
+        <filter id="mwzv0402ja" x="0" y="0" width="99" height="99" filterUnits="userSpaceOnUse">
+            <feOffset dy="9"/>
+            <feGaussianBlur stdDeviation="8.5" result="blur"/>
+            <feFlood flood-color="#2685f5" flood-opacity=".282"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 22080">
+        <g style="filter:url(#mwzv0402ja)">
+            <rect data-name="Rectangle 23081" width="48" height="48" rx="8" transform="translate(25.5 16.5)" style="fill:url(#4kl22oyr9b)"/>
+        </g>
+        <g data-name="Group 22013">
+            <g data-name="Group 22120">
+                <g data-name="Group 21961">
+                    <path data-name="Union 156" d="M13.591 18.336q0-.185.018-.363l-7.2-4.457a3.664 3.664 0 1 1 .04-4.984l7.179-4.363A3.708 3.708 0 1 1 17.3 7.338a3.716 3.716 0 0 1-2.96-1.457l-7.026 4.271a3.653 3.653 0 0 1-.014 1.754l6.967 4.314a3.658 3.658 0 1 1-.678 2.115zm1.851 0A1.854 1.854 0 1 0 17.3 16.5a1.847 1.847 0 0 0-1.859 1.836zM1.856 11a1.854 1.854 0 1 0 1.852-1.832A1.847 1.847 0 0 0 1.856 11zm13.585-7.332a1.854 1.854 0 1 0 1.859-1.83 1.847 1.847 0 0 0-1.859 1.83z" transform="translate(39.5 29.5)" style="fill:#fff"/>
+                </g>
+                <path data-name="Rectangle 23064" transform="translate(37.5 28.5)" style="fill:none" d="M0 0h24v24H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

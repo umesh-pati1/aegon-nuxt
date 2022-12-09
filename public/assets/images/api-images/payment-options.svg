@@ -1,0 +1,20 @@
+<svg data-name="Payment Options" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path data-name="Rectangle 27247" style="fill:none" d="M0 0h48v48H0z"/>
+    <g data-name="Group 29475">
+        <path data-name="Rectangle 27248" transform="translate(4 4)" style="opacity:.2;fill:none" d="M0 0h40v40H0z"/>
+        <g data-name="Group 29474">
+            <path data-name="Path 18159" d="M4 0h12a4 4 0 0 1 4 4v18a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4z" transform="translate(4 4)" style="fill:#fcec95"/>
+            <g data-name="Group 29473">
+                <path data-name="Path 18160" d="m8.488 7.914 3.22-3.314a.944.944 0 0 1 1.36 0l3.22 3.311" transform="translate(17.923 13.147)" style="fill:#ade0fe"/>
+                <path data-name="Path 18161" d="m14.016 8.748 3.966-4.078a1.162 1.162 0 0 1 1.675 0l3.966 4.077" transform="translate(16.912 12.313)" style="fill:#1272e2"/>
+                <path data-name="Subtraction 137" d="M34.754 23.9H21.5v-1.5h13.254a1.009 1.009 0 0 0 1.006-1.009v-2.8a.75.75 0 1 1 1.5 0v2.8a2.51 2.51 0 0 1-2.506 2.509zm2.411-6.8h-1.44a.781.781 0 0 1-.779-.78v-.44a.781.781 0 0 1 .779-.78h1.44a.781.781 0 0 1 .78.78v.44a.781.781 0 0 1-.779.78zm-.655-2.5a.751.751 0 0 1-.75-.75v-3.42a1.009 1.009 0 0 0-1.006-1.009H21.5v-1.5h13.254a2.51 2.51 0 0 1 2.506 2.509v3.423a.751.751 0 0 1-.75.747z" transform="translate(6 13)" style="fill:#094771"/>
+            </g>
+            <g data-name="Group 29472">
+                <path data-name="Subtraction 139" d="M25 16H8a2 2 0 0 1-2-2v-1h4a5.006 5.006 0 0 0 5-5V2h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2zM19.294 5.425a.5.5 0 1 0 0 1h5.339a.5.5 0 0 0 0-1z" transform="translate(12 28)" style="fill:#1272e2"/>
+                <path data-name="Subtraction 140" d="M27 12.669H11.791a5 5 0 0 0 2.924-3H27v3z" transform="translate(12 28)" style="fill:#2ea1ff;stroke:transparent;stroke-miterlimit:10"/>
+            </g>
+            <path data-name="Union 215" d="M4.505 35.5A4.522 4.522 0 0 1 0 30.973V4.528A4.522 4.522 0 0 1 4.505 0h12.489A4.522 4.522 0 0 1 21.5 4.528v26.445a4.522 4.522 0 0 1-4.506 4.527zM1.5 30.973A3.021 3.021 0 0 0 4.505 34h12.489A3.02 3.02 0 0 0 20 30.973v-1.4H1.75a.748.748 0 0 1-.25-.043zm0-2.86a.748.748 0 0 1 .25-.043H20V5.777H1.75a.748.748 0 0 1-.25-.043zm.007-23.795a.748.748 0 0 1 .243-.04h18.24a3.019 3.019 0 0 0-3-2.777H4.505a3.019 3.019 0 0 0-2.998 2.817zM8.75 31.82a2 2 0 1 1 2 2 2 2 0 0 1-2-2zm.29-27.952a.75.75 0 0 1 0-1.5h3.42a.75.75 0 0 1 0 1.5z" transform="translate(6.25 6.18)" style="fill:#094771"/>
+            <path data-name="Path 18163" d="M5.558 11.073.321 6.9A.854.854 0 0 1 0 6.25V6.2a.846.846 0 0 1 .842-.851h1.685a1.807 1.807 0 0 0 1.6-.975H.842a.851.851 0 0 1 0-1.7h3.284a1.809 1.809 0 0 0-1.5-.973H.842a.843.843 0 0 1-.8-.579A.857.857 0 0 1 0 .851.846.846 0 0 1 .842 0h6.672a.846.846 0 0 1 .842.851.846.846 0 0 1-.842.851h-2a3.529 3.529 0 0 1 .4.973h1.6a.851.851 0 0 1 0 1.7h-1.6a3.516 3.516 0 0 1-2.752 2.62L6.6 9.737a.857.857 0 0 1 .14 1.194.836.836 0 0 1-1.183.141z" transform="translate(12.822 17)" style="fill:#1272e2"/>
+        </g>
+    </g>
+</svg>

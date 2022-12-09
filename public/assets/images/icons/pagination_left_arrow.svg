@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.061" y1="1.125" x2="0.969" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#006bd7"/>
+      <stop offset="1" stop-color="#0582ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="8.78" height="14.9" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_22387" data-name="Group 22387" transform="translate(-562 -1022)">
+    <rect id="Rectangle_22695" data-name="Rectangle 22695" width="40" height="40" rx="8" transform="translate(562 1022)" fill="url(#linear-gradient)"/>
+    <g id="Icon_Left" data-name="Icon/Left" transform="translate(570 1030)">
+      <g id="keyboard_arrow_right" transform="translate(16.78 19.457) rotate(180)" clip-path="url(#clip-path)">
+        <g transform="translate(0 0)">
+          <path id="Vector" d="M.39-12.617,5.563-7.443.39-2.27a1.328,1.328,0,0,0,0,1.88,1.328,1.328,0,0,0,1.88,0L8.39-6.51a1.328,1.328,0,0,0,0-1.88L2.27-14.51a1.328,1.328,0,0,0-1.88,0A1.356,1.356,0,0,0,.39-12.617Z" transform="translate(0 14.9)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle_22365" data-name="Rectangle 22365" width="24" height="24" fill="none"/>
+    </g>
+  </g>
+</svg>

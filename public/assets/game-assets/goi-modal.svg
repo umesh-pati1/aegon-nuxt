@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+    <g data-name="Group 22715">
+        <path data-name="Rectangle 22928" style="fill:none" d="M0 0h33v33H0z"/>
+        <g data-name="Group 22355" transform="translate(11 457.641)">
+            <circle data-name="Ellipse 5203" cx="10.5" cy="10.5" r="10.5" transform="translate(-8 -449.641)" style="fill:#fedd31;opacity:.5"/>
+            <path data-name="Subtraction 55" d="M10.26 18.705A10.261 10.261 0 0 1 4.432 0l.617 1.069a9.179 9.179 0 0 0-1.174.992 9.029 9.029 0 0 0 6.385 15.413 8.956 8.956 0 0 0 3.784-.826l.617 1.068a10.167 10.167 0 0 1-4.401.989z" transform="translate(-2.539 -452.79)" style="fill:#094771"/>
+            <text data-name="1" transform="translate(4 -440.641)" style="fill:#1272e2;font-size:14px;font-family:Manrope-Bold,Manrope;font-weight:700"><tspan x="0" y="0">01</tspan></text>
+        </g>
+    </g>
+</svg>

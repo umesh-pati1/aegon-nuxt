@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 24580">
+        <path data-name="Rectangle 23360" style="fill:none" d="M0 0h24v24H0z"/>
+        <path data-name="Rectangle 23361" transform="translate(3 3)" style="opacity:.5;fill:none" d="M0 0h18v18H0z"/>
+        <path data-name="Union 148" d="M0 9a9 9 0 1 1 9 9 9 9 0 0 1-9-9zm1.5 0A7.5 7.5 0 1 0 9 1.5 7.508 7.508 0 0 0 1.5 9zM4 9a5 5 0 1 1 5 5 5 5 0 0 1-5-5z" transform="translate(3 3)" style="fill:#1272e2"/>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <clipPath id="8hghejnuha">
+            <path data-name="Rectangle 22602" style="fill:#fff" d="M0 0h48v48H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 22812">
+        <g data-name="Mask Group 5792" style="clip-path:url(#8hghejnuha)">
+            <g data-name="Group 21138" transform="translate(4.503 3.826)">
+                <rect data-name="Rectangle 22601" width="24.196" height="34.601" rx="1.743" transform="translate(0 3.877)" style="fill:#fedd31;stroke:transparent;stroke-miterlimit:10;opacity:.5"/>
+                <path data-name="Path 12655" d="M5.273 31.949c0-4.082-.054-10.264 0-14.185.284-.04 25.377.028 29.019 0 0 1.074.3 14.185.3 14.185" transform="translate(-1.468 -1.4)" style="fill:#1375e9"/>
+                <path data-name="Path 12652" d="M31.075 37.252H7.881a3.835 3.835 0 0 1-3.83-3.83V4.58A3.835 3.835 0 0 1 7.881.75H29.3l6.78 6.78v24.292a5.4 5.4 0 0 1-1.371 4.017 5.518 5.518 0 0 1-3.634 1.413zM7.881 2.25a2.333 2.333 0 0 0-2.33 2.33v28.84a2.333 2.333 0 0 0 2.33 2.33h23.194a4.02 4.02 0 0 0 2.575-.975l.005-.005a4.006 4.006 0 0 0 .923-2.946V8.151l-5.9-5.9z" transform="translate(-1.759 -1.5)" style="fill:#094771"/>
+                <path data-name="Path 12653" d="M26.76 8.913h-5.5V3.16a.75.75 0 0 1 1.5 0v4.253h4a.75.75 0 0 1 0 1.5z" transform="translate(4.602 -.886)" style="fill:#094771"/>
+            </g>
+        </g>
+        <text transform="translate(15.529 30.143)" style="font-size:8px;font-family:Manrope;font-weight:600;fill:#fff"><tspan x="0" y="0">PDF</tspan></text>
+    </g>
+</svg>

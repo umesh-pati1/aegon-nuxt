@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338" height="378" viewBox="0 0 338 378">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="338" height="378" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="47" result="blur"/>
+      <feFlood flood-color="#c6d7ea"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1702" data-name="Group 1702" transform="translate(197 3118) rotate(180)">
+    <g transform="matrix(-1, 0, 0, -1, 197, 3118)" filter="url(#Rectangle)">
+      <path id="Rectangle-2" data-name="Rectangle" d="M0-20,56,0V-96L0-76Z" transform="translate(141 213)" fill="#fff"/>
+    </g>
+    <g id="Arrow_Up-Icon" data-name="Arrow Up-Icon" transform="translate(469 -2764) rotate(90)">
+      <rect id="Rectangle_22617" data-name="Rectangle 22617" width="24" height="24" transform="translate(5705 429)" fill="none"/>
+      <path id="Union_7" data-name="Union 7" d="M8.132,8.882A.747.747,0,0,1,7.6,8.663L.53,1.591A.75.75,0,0,1,1.591.53L8.132,7.071,14.673.53a.75.75,0,0,1,1.061,1.061L8.663,8.663a.747.747,0,0,1-.53.219Z" transform="translate(5708.868 436.389)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path data-name="Rectangle 27181" style="fill:none" d="M0 0h48v48H0z"/>
+    <g data-name="Group 29421">
+        <path data-name="Rectangle 27182" transform="translate(4 4)" style="opacity:.2;fill:none" d="M0 0h40v40H0z"/>
+        <g data-name="Group 29420" transform="translate(8799 2035)">
+            <circle data-name="Ellipse 5630" cx="15" cy="15" r="15" transform="translate(-8795 -2031)" style="fill:#fcec95"/>
+            <path data-name="Rectangle 23120" d="M5.908-.75h22.684a6.665 6.665 0 0 1 6.658 6.658v22.684a6.665 6.665 0 0 1-6.658 6.658H5.908A6.665 6.665 0 0 1-.75 28.592V5.908A6.665 6.665 0 0 1 5.908-.75zm22.684 34.521a5.184 5.184 0 0 0 5.178-5.178V5.908A5.184 5.184 0 0 0 28.592.729H5.908A5.184 5.184 0 0 0 .729 5.908v22.684a5.184 5.184 0 0 0 5.178 5.178z" transform="translate(-8790.25 -2026.25)" style="fill:#094771"/>
+            <path data-name="Path 18111" d="M.4 23.918V7.94h4.969v15.978zm18.615 0v-7.771c0-1.854-.037-4.236-2.581-4.236-2.585 0-2.98 2.018-2.98 4.1v7.9H8.485V7.938h4.764v2.185h.066a5.221 5.221 0 0 1 4.7-2.581c5.028 0 5.955 3.308 5.955 7.61v8.763zM0 2.878a2.881 2.881 0 1 1 2.883 2.881A2.881 2.881 0 0 1 0 2.878z" transform="translate(-8784.107 -2022.054)" style="fill:#0275e9"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg data-name="Left arrow" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g data-name="Rectangle 23781" style="stroke:#2e74db;stroke-width:1.5px;fill:none">
+        <rect width="64" height="64" rx="8" style="stroke:none"/>
+        <rect x=".75" y=".75" width="62.5" height="62.5" rx="7.25" style="fill:none"/>
+    </g>
+    <path data-name="Path 13271" d="M0 0h40v40H0z" style="fill:none" transform="translate(12 12)"/>
+    <path data-name="Path 13272" d="M28.722 15.395H10.1l8.133-8.133a1.68 1.68 0 0 0 0-2.367 1.66 1.66 0 0 0-2.35 0L4.9 15.878a1.66 1.66 0 0 0 0 2.35l10.988 10.984a1.662 1.662 0 1 0 2.35-2.35L10.1 18.728h18.622a1.667 1.667 0 0 0 0-3.333z" transform="translate(14.945 14.938)" style="fill:#1272e2"/>
+</svg>
