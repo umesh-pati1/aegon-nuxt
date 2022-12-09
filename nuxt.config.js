@@ -11,7 +11,51 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope-SemiBold.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope-Medium.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope-ExtraBold.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope-Bold.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+      {
+        rel: "preload",
+        as: "font",
+        href: "~/assets/fonts/Manrope-Light.ttf",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -30,7 +74,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["nuxt-stencil"],
+  modules: ["nuxt-stencil", "@nuxt/http"],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
